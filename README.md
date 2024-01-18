@@ -1,5 +1,3 @@
-# exercism_org
-
 # Exercism Practice Repository
 
 This repository holds all the code I've written while practicing on Exercism.org. Exercism is an excellent platform for improving coding skills through practice and mentorship in over 67 programming languages.
